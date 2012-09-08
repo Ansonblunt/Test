@@ -4,4 +4,5 @@ console.log(test);
 //this section is added
 function testLty() {
     console.log("en");
+    console.log("ch");
 }
